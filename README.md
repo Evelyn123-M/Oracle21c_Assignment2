@@ -9,7 +9,6 @@ oracle21c, database, sql, oem, assignment, AUCA, insy8314
 **Institution:** Adventist University of Central Africa  
 **Date:** October 2025
 
----
 
 ## Overview
 This project demonstrates practical Oracle 21c Database administration tasks:
@@ -19,7 +18,7 @@ This project demonstrates practical Oracle 21c Database administration tasks:
 
 The exercises were performed using **Oracle Database 21c Express Edition (XE)** on Windows.
 
----
+
 
 ## Task 1 – PDB Creation
 **SQL Command:**
