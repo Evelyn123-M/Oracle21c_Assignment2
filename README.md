@@ -18,7 +18,7 @@ This project demonstrates practical Oracle 21c Database administration tasks:
 
 The exercises were performed using **Oracle Database 21c Express Edition (XE)** on Windows.
 
-
+<img width="541" height="315" alt="TASK1A" src="https://github.com/user-attachments/assets/953ddab8-8090-4139-ab96-053e63cc193d" />
 
 ## Task 1 – PDB Creation
 **SQL Command:**
