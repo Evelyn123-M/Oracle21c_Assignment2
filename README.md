@@ -21,7 +21,7 @@ The exercises were performed using **Oracle Database 21c Express Edition (XE)** 
 
 ## Task 1 – PDB Creation
 **SQL Command:**
-```sql
+
 CREATE PLUGGABLE DATABASE EV_PDB_27701
 ADMIN USER Evelyn IDENTIFIED BY "Michou@123"
 FILE_NAME_CONVERT=(
@@ -47,7 +47,8 @@ http://localhost:5500/em
 
 
 <img width="937" height="439" alt="task3" src="https://github.com/user-attachments/assets/aafdbbc6-ec77-4408-a244-883bfbabbdcd" />
-<img width="937" height="439" alt="task3" src="https://github.com/user-attachments/assets/08fe97f6-7648-4bfb-88e4-799cc6a321c0" />
+<img width="926" height="406" alt="task3a" src="https://github.com/user-attachments/assets/247baa43-16f9-47a1-b9f0-24563aee3ef7" />
+
 
 Username: Evelyn
 Password: Michou@123
