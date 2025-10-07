@@ -45,11 +45,11 @@ After configuration, the OEM Dashboard was accessed via:
 http://localhost:5500/em
 
 
-Username: Evelyn
-Password: Michou@123
+
 <img width="937" height="439" alt="task3" src="https://github.com/user-attachments/assets/aafdbbc6-ec77-4408-a244-883bfbabbdcd" />
 <img width="937" height="439" alt="task3" src="https://github.com/user-attachments/assets/08fe97f6-7648-4bfb-88e4-799cc6a321c0" />
 
-
+Username: Evelyn
+Password: Michou@123
 
 
